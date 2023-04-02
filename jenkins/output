@@ -1,0 +1,7 @@
+START REQUEST: 225c53fd-aa84-4038-8049-ba607c9ffc1d Version: $LATEST
+{"message": "Message processed successfully."}
+200
+END REQUEST
+START RESPONSE: 225c53fd-aa84-4038-8049-ba607c9ffc1d
+{"message": "Message processed successfully."}
+END RESPONSE
